@@ -1,5 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](https://user-images.githubusercontent.com/111170924/194302008-9e784ca7-b49d-48d4-b995-cd88c72dd8d1.png)
+
+
 <h1 align="center">Hi 👋, I'm CHARLES GALWYN</h1>
+
 <h3 align="center">Aspiring Full-Stack Web Developer</h3>
 <p align="center">Hi! My name is Charles Galwyn. Thank You for taking the time to view my GitHub Profile 😄.I am proficient in Java ,JavaScript, HTML and CSS. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to play chess and participated in many competitions. </p>
 <img align="right" alt="Coding" style="width: 200px; height: 170px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
