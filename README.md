@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesgalwyn&label=Profile%20views&color=0e75b6&style=flat" alt="charlesgalwyn" /> </p>
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/java_offl)
 
 - 🌱 I’m currently learning **Advanced JavaScript, HTML, CSS**
 
