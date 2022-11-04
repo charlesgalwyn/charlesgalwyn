@@ -1,5 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/111170924/194302008-9e784ca7-b49d-48d4-b995-cd88c72dd8d1.png)
-
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm CHARLES GALWYN</h1>
 
@@ -18,7 +17,12 @@
 - 📫 How to reach me **charlesgalwyn@gmail.com**
 
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlesgalwyn" alt="charlesgalwyn" /></a> </p>
+<h2><i>My GitHub Stats</i></h2>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesgalwyn&show_icons=true&locale=en&theme=dark" alt="charlesgalwyn"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesgalwyn&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="charlesgalwyn" height="139" />
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=charlesgalwyn&theme=xcode" height ="307"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
