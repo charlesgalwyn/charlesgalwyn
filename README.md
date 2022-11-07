@@ -1,8 +1,7 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<h1 align="center">Hi 👋, I'm CHARLES GALWYN</h1>
-
-<h3 align="center">Aspiring Full-Stack Web Developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+CHARLES+GALWYN!;Full+Stack-Web+Developer...👨🏻‍💻;" style="width: 100%;">
+<h3 align="center">A passionate and Aspiring Full-Stack Web Developer </h3>
 <p align="center">Hi! My name is Charles Galwyn. Thank You for taking the time to view my GitHub Profile 😄.I am proficient in Java ,JavaScript, HTML and CSS. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to play chess and participated in many competitions. </p>
 <img align="right" alt="Coding" style="width: 200px; height: 170px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
