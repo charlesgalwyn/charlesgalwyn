@@ -43,4 +43,5 @@
 ### I created a Snake that eats my Contribution
 ![snake gif](https://github.com/charlesgalwyn/charlesgalwyn/blob/output/github-contribution-grid-snake.gif)
 
+    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesgalwyn&" alt="charlesgalwyn" /></p>
