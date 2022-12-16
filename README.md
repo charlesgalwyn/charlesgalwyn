@@ -8,9 +8,9 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/java_offl)
 
-- 🌱 I’m currently learning **Advanced JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **JavaScript, Java**
+- 💬 Ask me about **JavaScript,REACT,Redux, Java**
 
 - 📫 How to reach me **charlesgalwyn@gmail.com**
 
