@@ -16,10 +16,11 @@
 
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 <h2><i>My GitHub Stats</i></h2>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesgalwyn&show_icons=true&locale=en&theme=dark" alt="charlesgalwyn"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesgalwyn&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="charlesgalwyn" height="139" />
-</p>
+<p  align="left"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=charlesgalwyn&show_icons=true&locale=en&layout=compact&theme=light" alt="charlesgalwyn" /></p>
+
+<p  align="left">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesgalwyn&show_icons=true&locale=en&theme=light"alt="charlesgalwyn" /></p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,21 +28,9 @@
 <a href="https://linkedin.com/in/charles-p-067a74178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-p-067a74178" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Skills:</h3>
-<p align="left"> 
-<a href= https://github.com/charlesgalwyn?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif'> </a>
-<a href= "https://www.javascript.com" > <img width ='32px' src =https://img.icons8.com/color/344/javascript--v1.png'> </a>
-<a href= "https://html.com" > <img width ='32px' src ='https://img.icons8.com/color/344/html-5--v1.png'> </a>
-<a href= "https://www.free-css.com" > <img width ='32px' src ='https://img.icons8.com/color/452/css3.png'> </a>
-<a href= "https://getbootstrap.com/" > <img width ='32px' src ='https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png'> </a>
-<a href= "https://getbootstrap.com/"> <img width ='32px' src ='https://tse1.mm.bing.net/th?id=OIP.yPRN87C9vjrdtIBY7UTAiAHaGs&pid=Api&P=0'> </a>
-<a href= "https://www.mongodb.com/home" > <img width ='32px' src ='https://tse4.mm.bing.net/th?id=OIP.txPPpKqWC6V6aRqGzTJUDQAAAA&pid=Api&P=0'> </a>
-<a href= "https://expressjs.com/"> <img width ='32px' src ='https://tse4.mm.bing.net/th?id=OIP.1fZjQpkRMKTBGN_7H5YnFwHaGL&pid=Api&P=0'> </a>
-<a href="https://reactjs.org/" > <img width ='32px' src ='https://tse2.mm.bing.net/th?id=OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ&pid=Api&P=0'> </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"&theme="dark" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
 ### I created a Snake that eats my Contribution
 ![snake gif](https://github.com/charlesgalwyn/charlesgalwyn/blob/output/github-contribution-grid-snake.gif)
-
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesgalwyn&" alt="charlesgalwyn" /></p>
+<p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesgalwyn&theme=light" alt="charlesgalwyn" /></p>
