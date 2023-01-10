@@ -16,10 +16,10 @@
 
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 <h2><i>My GitHub Stats</i></h2>
-<p  align="left"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=charlesgalwyn&show_icons=true&locale=en&layout=compact&theme=light" alt="charlesgalwyn" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=charlesgalwyn&show_icons=true&locale=en&layout=compact&theme=dark" alt="charlesgalwyn" /></p>
 
 
-<p  align="left" style="margin-top:20px">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesgalwyn&show_icons=true&locale=en&theme=light"alt="charlesgalwyn" /></p>
+<p  align="center" style="margin-top:20px">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=charlesgalwyn&show_icons=true&locale=en&theme=dark"alt="charlesgalwyn" /></p>
 
 
 
@@ -34,4 +34,4 @@
 
 ### I created a Snake that eats my Contribution
 ![snake gif](https://github.com/charlesgalwyn/charlesgalwyn/blob/output/github-contribution-grid-snake.gif)
-<p  align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesgalwyn&theme=light" alt="charlesgalwyn" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesgalwyn&theme=light" alt="charlesgalwyn" /></p>
