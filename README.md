@@ -1,7 +1,7 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+CHARLES+GALWYN!;Full+Stack-Web+Developer...👨🏻‍💻;" style="width: 100%;">
 <h3 align="center">A Passionate and Aspiring Full-Stack Web Developer </h3>
-<p align="center">Hi! My name is Charles Galwyn. Thank You for taking the time to view my GitHub Profile 😄.I am proficient in Java ,JavaScript, HTML ,CSS and React. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community. Love to play chess and participated in many competitions. </p>
+<p align="center"> A passionate MERN stack developer with a knack for building robust and scalable web applications. With a strong foundation in Java, JavaScript, HTML, CSS, and React, I thrive on turning ideas into interactive and impactful digital experiences. On my GitHub profile, you'll find a collection of projects showcasing my skills in full-stack development, from front-end design and user experience optimization to back-end logic and database management using MongoDB, Express.js, and Node.js. </p>
 <img align="right" alt="Coding" style="width: 200px; height: 170px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesgalwyn&label=Profile%20views&color=0e75b6&style=flat" alt="charlesgalwyn" /> </p>
