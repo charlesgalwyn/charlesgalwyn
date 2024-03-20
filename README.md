@@ -8,7 +8,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/java_offl)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **JavaScript,REACT,Redux, Java**
 
